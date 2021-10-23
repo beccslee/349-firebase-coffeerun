@@ -1,0 +1,28 @@
+section {
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.panel {
+    margin: 25px;
+}
+
+.modal {
+    max-height: 200px;
+    overflow-y: visible;
+    overflow-x: visible;
+}
+
+.btn {
+    border: 0.5px solid rgb(137, 159, 158);
+    border-radius: 10px;
+}
+
+.button-group {
+    margin-top: 10px;
+}
